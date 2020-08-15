@@ -21,7 +21,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "What is your application's intended use?",
+        message: "What does the user need to know about using your repository?",
         name: "usage"
     },
     {
@@ -32,7 +32,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "What testing frameworks were used for the app?",
+        message: "What command should be used to run tests?",
         name: "test"
     },
     {
