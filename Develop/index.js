@@ -16,6 +16,11 @@ const questions = [
     },
     {
         type: "input",
+        message: "What is the filepath to a screenshot or GIF of your application? (If unsure, can update later)",
+        name: "preview"
+    },
+    {
+        type: "input",
         message: "Which package manager is used to install your application (ex. npm, pip)?",
         name: "install"
     },

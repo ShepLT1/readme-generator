@@ -10,7 +10,10 @@ function generateMarkdown(data, license) {
 ${data.description}
 
 ## Table of Contents
-${toc('# Installation\n\n# Usage\n\n# License\n\n# Contributing\n\n# Tests\n\n# Questions').content}
+${toc('# Preview\n\n# Installation\n\n# Usage\n\n# License\n\n# Contributing\n\n# Tests\n\n# Questions').content}
+
+## Preview
+![${data.title}](${data.preview})
 
 ## Installation
 Use the package manager ${data.install} to install ${data.title}  
