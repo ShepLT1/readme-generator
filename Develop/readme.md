@@ -1,65 +1,44 @@
 
-# adsf
+# readme-generator
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 <br>
-asdf  
-
-<br>  
-
-## Table of Contents
+Generates a detailed readme specific to the user's application.
 
 ---
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions](#questions)  
+- [Questions](#questions)
 
-<br>  
-
+---
 ## Installation
+Use the package manager npm to install readme-generator  
+<pre><code>npm install readme-generator</code></pre>
 
 ---
-Use the package manager asdf to install adsf  
-<pre><code>asdf install adsf</code></pre>  
-
-<br>  
-
 ## Usage
+Allow for quicker readme generation and more time for writing code
 
 ---
-asdf  
-
-<br>  
-
 ## License
-
----
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 <br>
-Click on the badge for this project's MIT licensing information.  
+Click on the badge for this project's MIT licensing information.
 
-<br>  
-
+---
 ## Contributing
+Pull requests and stars are always welcome. For bugs and feature requests, [please submit an issue](https://github.com/ShepLT1/readme-generator/issues/new)
 
 ---
-Pull requests and stars are always welcome. For bugs and feature requests, [please submit an issue](https://github.com/asdf/adsf/issues/new)  
-
-<br>  
-
 ## Tests
+Jest
 
 ---
-asdf  
-
-<br>  
-
 ## Questions
-
----
 Please contact me with questions via email or Github  
 <br>
-asdf  
-[Github Profile](https://github.com/asdf)
+lshepherd234@gmail.com  
+[Github Profile](https://github.com/ShepLT1)
