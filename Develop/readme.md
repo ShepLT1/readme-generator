@@ -1,12 +1,13 @@
 
 # hows-the-weather
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
 
 ## Description
-Gives today and 5-day weather forecast for selected cities
+flippin bitties
 
 ## Table of Contents
 - [Preview](#preview)
+- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
@@ -21,10 +22,10 @@ Use the package manager npm to install hows-the-weather
 <pre><code>npm install hows-the-weather</code></pre>
 
 ## Usage
-it's amazing
+dont need to know dick
 
 ## License  
-Click on the badge (top of page) for this project's MIT licensing information.
+Click on the badge (top of page) for this project's Apache licensing information.
 
 ## Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, [please submit an issue](https://github.com/ShepLT1/hows-the-weather/issues/new)
