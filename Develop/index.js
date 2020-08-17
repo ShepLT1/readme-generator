@@ -81,6 +81,6 @@ inquirer
         
         const mkdnFile = mkdn(response, license);
 
-        writeToFile("readme.md", mkdnFile);
+        writeToFile("README.md", mkdnFile);
         
     })

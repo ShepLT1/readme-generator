@@ -2,9 +2,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 ## Description
-Generates a detailed readme specific to the user's application.
+Generates a detailed README<span></span>.md file specific to the user's application. Application used to generate this README<span></span>.md file.
 
 ## Table of Contents
+- [Preview](#preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -12,12 +13,19 @@ Generates a detailed readme specific to the user's application.
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Preview  
+#### Run via Command Line Tools  
+![Run via Command Line Tools](./Assets/readme-terminal-walkthru.gif)  
+
+#### Example File Output  
+![Example README.md Output](./Assets/readme-output.gif)
+
 ## Installation
 Use the package manager npm to install readme-generator  
 <pre><code>npm install readme-generator</code></pre>
 
 ## Usage
-Allows for quicker readme generation that provides more time to write code.
+Install package and run using node.js.
 
 ## License  
 Click on the badge (top of page) for this project's MIT licensing information.
